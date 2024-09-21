@@ -1,0 +1,88 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 4,
+  "numPassedTests": 0,
+  "numFailedTests": 4,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1705013299945,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Arama Çubuğu componenti eklenmiş",
+          "status": "failed",
+          "title": "Arama Çubuğu componenti eklenmiş",
+          "duration": 31,
+          "failureMessages": [
+            "sahteVeri is not defined"
+          ],
+          "location": {
+            "line": 8,
+            "column": 70
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Gönderiler componenti eklenmiş",
+          "status": "failed",
+          "title": "Gönderiler componenti eklenmiş",
+          "duration": 3,
+          "failureMessages": [
+            "sahteVeri is not defined"
+          ],
+          "location": {
+            "line": 8,
+            "column": 70
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Arama Çubuğuna doğru proplar gönderiliyor ve search yapabiliyor.",
+          "status": "failed",
+          "title": "Arama Çubuğuna doğru proplar gönderiliyor ve search yapabiliyor.",
+          "duration": 3,
+          "failureMessages": [
+            "sahteVeri is not defined"
+          ],
+          "location": {
+            "line": 8,
+            "column": 70
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Gönderiler componentine doğru proplar gönderiliyor ve like yapabiliyor.",
+          "status": "failed",
+          "title": "Gönderiler componentine doğru proplar gönderiliyor ve like yapabiliyor.",
+          "duration": 3,
+          "failureMessages": [
+            "sahteVeri is not defined"
+          ],
+          "location": {
+            "line": 8,
+            "column": 70
+          }
+        }
+      ],
+      "startTime": 1705013302475,
+      "endTime": 1705013302516,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-ncuvxr/src/__tests__/index.test.jsx"
+    }
+  ]
+}
